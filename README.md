@@ -6,7 +6,13 @@ import numpy as np
 # =========================================================
 # CẤU HÌNH TRANG
 # =========================================================
-st.set_page_config(page_title="Smart Savings Planner",page_icon="💰",layout="wide")
+
+st.set_page_config(
+    page_title="Smart Savings Planner",
+    page_icon="💰",
+    layout="wide"
+)
+
 # =========================================================
 # CSS
 # =========================================================
