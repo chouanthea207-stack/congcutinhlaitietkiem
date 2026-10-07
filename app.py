@@ -109,6 +109,8 @@ if menu == "🏠 Trang chủ":
 
     st.markdown(
         '<div class="main-title">💰 SMART SAVINGS PLANNER</div>',
+        'Đỗ Trương Bảo Châu'
+        '</div.>',
         unsafe_allow_html=True
     )
 
