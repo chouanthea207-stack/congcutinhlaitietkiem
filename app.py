@@ -74,19 +74,7 @@ def format_money(value):
 # SIDEBAR
 # =========================================================
 
-st.sidebar.image("logo.jpg", use_container_width=True)
-
 st.sidebar.title("💰 Smart Savings")
-
-st.sidebar.markdown(
-    """
-    <div style="text-align:center; color:#666; margin-bottom:15px;">
-        <b>Đỗ Trương Bảo Châu</b><br>
-        Công cụ tính lãi tiết kiệm
-    </div>
-    """,
-    unsafe_allow_html=True
-)
 
 menu = st.sidebar.radio(
     "Chọn chức năng",
