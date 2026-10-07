@@ -109,6 +109,7 @@ if menu == "🏠 Trang chủ":
 
     st.markdown(
         '<div class="main-title">💰 SMART SAVINGS PLANNER</div>',
+        '<div style="text-align:center; color:#666; font-size:16px;">'
         'Đỗ Trương Bảo Châu'
         '</div.>',
         unsafe_allow_html=True
