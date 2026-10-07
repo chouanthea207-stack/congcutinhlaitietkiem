@@ -806,4 +806,3 @@ st.caption(
     "💰 Smart Savings Planner | Công cụ mô phỏng tài chính "
     "phục vụ mục đích học tập và tham khảo."
 )
-```
