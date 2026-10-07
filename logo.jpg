@@ -1,1 +1,4 @@
-st.image("logo.jpg")
+st.image(
+    "logo.jpg",
+    width=180
+)
